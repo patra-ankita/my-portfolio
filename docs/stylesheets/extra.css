@@ -1,0 +1,72 @@
+:root {
+  --md-primary-fg-color: #ffffff;
+  --md-primary-fg-color--light: #ffffff;
+  --md-primary-fg-color--dark: #f5f5f5;
+  --md-primary-bg-color: #1a1a1a;
+  --md-accent-fg-color: #7861de;
+}
+
+.md-header {
+  border-bottom: 2px solid #7861de;
+  box-shadow: none;
+}
+
+.md-header__title {
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.md-tabs {
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.md-tabs__link {
+  color: #1a1a1a !important;
+  font-weight: 500;
+}
+
+.md-tabs__link--active {
+  color: #7861de !important;
+  border-bottom: 2px solid #7861de;
+}
+
+.md-content {
+  max-width: 860px;
+}
+
+.md-typeset h1 {
+  font-weight: 800;
+  color: #1a1a1a;
+  border-bottom: 2px solid #7861de;
+  padding-bottom: 0.3em;
+}
+
+.md-typeset h2 {
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-top: 2em;
+}
+
+.md-typeset a {
+  color: #7861de;
+}
+
+.md-typeset a:hover {
+  color: #2e7d52;
+}
+
+.md-typeset table {
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+}
+
+.md-typeset thead {
+  background-color: #f0faf4;
+}
+
+.md-typeset code {
+  background-color: #f0faf4;
+  color: #1a1a1a;
+  border-radius: 3px;
+}
