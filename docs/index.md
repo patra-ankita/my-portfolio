@@ -1,17 +1,38 @@
-# Welcome to MkDocs
+# Hi, I’m Ankita 👋
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Technical Writer | Cybersecurity | Documentation Specialist
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## About Me
 
-## Project layout
+I’m a Technical Writer with 2+ years of experience creating clear, user-focused documentation in the cybersecurity domain.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+I specialize in:
+- Product documentation
+- API documentation
+- Developer guides
+- Knowledge base content
+
+---
+
+## Skills
+
+- Markdown, MkDocs
+- API Documentation
+- Git, GitHub
+- Information Architecture
+
+---
+
+## Projects
+
+### Documentation Portal
+Built a documentation site using MkDocs and Material theme.
+
+---
+
+## Contact
+
+📧 patraankita017@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ankita-patra-501a0827b/)
